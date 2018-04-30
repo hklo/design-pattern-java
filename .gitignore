@@ -1,5 +1,5 @@
 # Compiled class file
-*.class
+.bin/
 
 # Log file
 *.logs
@@ -14,5 +14,5 @@
 *.rar
 
 # JetBrains #
-.idea
+.idea/
 
